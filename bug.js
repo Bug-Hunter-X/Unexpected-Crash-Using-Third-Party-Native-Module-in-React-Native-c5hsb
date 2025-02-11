@@ -1,0 +1,1 @@
+This bug occurs when using a third-party library that uses a native module in React Native. The native module might have an unexpected behavior, which leads to crashes or unexpected behavior in the app. The error message is usually not helpful, and debugging can be difficult because of the native code involved.
